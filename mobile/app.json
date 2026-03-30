@@ -20,7 +20,7 @@
       "jsEngine": "hermes",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#7C3AED"
+        "backgroundColor": "#0E0823"
       },
       "package": "com.clipartai.app",
       "permissions": [
