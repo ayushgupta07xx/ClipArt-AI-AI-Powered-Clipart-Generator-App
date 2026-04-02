@@ -1,6 +1,6 @@
 # ClipArt AI — AI Clipart Generator
 
-Transform any face photo into 5 distinct art styles using AI.  Built as a production-quality Android app in 48 hours.
+Transform any face photo into 5 distinct art styles using AI.  Built as a production-quality Android app.
 
 ---
 
