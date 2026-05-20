@@ -7,7 +7,7 @@ Transform any face photo into 5 distinct art styles using AI.  Built as a produc
 ## Links
 
 - **APK Download:** [https://drive.google.com/file/d/1q9ELkmVCZnSpS2bW8RE_7YDF6e7Qh0aN/view?usp=drivesdk]
-- **Demo Video/Tutorial** [https://drive.google.com/file/d/1s2BFGYQmI7xn0WCK6aAKzvRPminSoFSB/view?usp=drivesdk]
+- **Demo Video/Tutorial:** [https://drive.google.com/file/d/1s2BFGYQmI7xn0WCK6aAKzvRPminSoFSB/view?usp=drivesdk]
 - **Backend:** Deployed on Vercel
 
 ---
